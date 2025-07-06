@@ -5,3 +5,9 @@
 body {
   background-color: black;
 }
+
+@media (max-width: 640px) {
+  #text-container h1 {
+    font-size: 2rem; /* 32px */
+  }
+}
