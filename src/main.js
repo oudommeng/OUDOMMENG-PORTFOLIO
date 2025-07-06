@@ -1,5 +1,4 @@
-import * as THREE from 'three';
-
-document.querySelector('#app').innerHTML = `
-  <h1>Hello My Name is Oudom Meng</h1>
-`
+import './js/navbar.js';
+import './js/background.js';
+import './js/text.js';
+import './style.css';
